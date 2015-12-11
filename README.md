@@ -1,11 +1,25 @@
-about Andriy V. Koval, researcher
-=====
+about 
+===
 
-### work
+Andriy V. Koval, researcher
+
+## work
+
+### Portland project
 
 
-### collaborators
+## collaborators
+
+- Andrea Piccinin, UVic
+- Scott Hofer , UVic
+- Will Beasley, OU
+- Ken Moselle, VIHA
+- Cassandra Brown, UVic
 
 
-### log
+
+
+### Wave inclusion project
+
+## log
 
