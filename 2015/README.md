@@ -40,6 +40,8 @@ chronicles of 2015
 It is frequently impractical to shape the entire body of the data for analysis from a particular study before any analyses can be conducted. Instead, researchers limit their scope to the subset of data that aligns with their research agenda. The architecture of repositories in the Data Curator project has been built to anticipate **incremental appropriation** of the data for analysis: one team member will contribute only a few items to the skeleton of the appropriated dataset. 
 Researchers in the management team for the corresponding study will provide their expert knowledge of the selected variables,  crowd-sourcing the scrupulosity of data preparation. 
  
+You can think of this as recreating the puzzle from small pieces. We start with the box containing all the pieces. But they are not in the form conducive to understanding what is depicted on it. So we start putting it together. One person can't do it, but ever next research puts in another piece (relevant to HIS research agenda), thus advancing data appropriation. 
+ 
  
  ### Collaborations 
   - Cassandra Brown  
