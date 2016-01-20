@@ -13,7 +13,8 @@ He recommended two pop-books to get into the science of stress and ageing:
 [![](http://ecx.images-amazon.com/images/I/518PbRACTQL._SX322_BO1,204,203,200_.jpg)](http://www.amazon.ca/Why-Zebras-Dont-Ulcers-Stress-Related/dp/0805073698)   [![](http://ecx.images-amazon.com/images/I/41R13evwgiL.jpg)](http://www.amazon.com/Stress-Less-Science-Rejuvenate-Bodyand/dp/1594630607) 
 
 
-[Jan 19](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-19.md)
+[Jan 19](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-19.md)  
+
 1. advances in systematizing [current projects](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-19.md) in tables.   
 2. presentation by [Eli Puterman](http://profiles.ucsf.edu/eli.puterman)    at the [COAG Colloquium Series](http://conferences.uvic.ca/index.php/coag/coagcs_spring2015). Add [link]() to the video lecture when it becomes available. Very engaging presenation on telemeres (see above) and ongoing research on the relationship between psychological stress and health outcomes, lead by [Elizabeth (Lisa) Blackburn](https://en.wikipedia.org/wiki/Elizabeth_Blackburn). Quite facinating. High replay value.
 3. met with @casslbrown to collect thoughs on the [wave inclusion](https://github.com/IALSA/wave-inclusion) project. [LOG issue](https://github.com/IALSA/wave-inclusion/issues/3). We refreshed our memory on the current state of the project and found some concrete formulations for the next steps. We decided to start by giving a fresh look at our presentation last fall on the MAP data. In light of what has already [been done](https://github.com/IALSA/wave-inclusion/blob/master/README.md), we'd like to start [finding words](https://github.com/IALSA/wave-inclusion/issues/4) to answer the following question:
