@@ -1,6 +1,6 @@
-about 
+Andriy V. Koval, researcher 
 ===
-Andriy V. Koval, researcher
+[productions](#productions) - [developments](#developments) - [colaborers](#colaborers) - [log](#log) 
 
 #### productions
 1. CAR methods - Practical implementation of Coordinated Analysis with Replication  for 9 longitudinal studies  
