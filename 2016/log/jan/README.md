@@ -6,7 +6,7 @@
 
 Jan 7 - Jan 16 : Vacation
 
-[Jan 18]() informal meeting with [Eli Puterman](http://profiles.ucsf.edu/eli.puterman) discussing his [projects on telomers](https://projectreporter.nih.gov/project_info_results.cfm?aid=8847776&icde=0).  
+[Jan 18]()   informal meeting with [Eli Puterman](http://profiles.ucsf.edu/eli.puterman) discussing his [projects on telomers](https://projectreporter.nih.gov/project_info_results.cfm?aid=8847776&icde=0). ![Puterman](http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=366241&cachekey=f6fb65f4-6b1b-46ea-9786-5997190f5f49)   
 > [Telomere](https://en.wikipedia.org/wiki/Telomere) is a region of repetitive nucleotide sequences at each end of a chromosome, which protects the end of the chromosome from deterioration or from fusion with neighboring chromosomes.
 
 He recommended two pop-books to get into the science of stress and ageing:  
@@ -15,7 +15,7 @@ He recommended two pop-books to get into the science of stress and ageing:
 
 [Jan 19](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-19.md)
 1. advances in systematizing [current projects](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-19.md) in tables.   
-2. ![Puterman](http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=366241&cachekey=f6fb65f4-6b1b-46ea-9786-5997190f5f49) presentation by [Eli Puterman](http://profiles.ucsf.edu/eli.puterman)    at the [COAG Colloquium Series](http://conferences.uvic.ca/index.php/coag/coagcs_spring2015). Add [link]() to the video lecture when it becomes available. Very engaging presenation on telemeres (see above) and ongoing research on the relationship between psychological stress and health outcomes, lead by [Elizabeth (Lisa) Blackburn](https://en.wikipedia.org/wiki/Elizabeth_Blackburn). Quite facinating. High replay value.
+2. presentation by [Eli Puterman](http://profiles.ucsf.edu/eli.puterman)    at the [COAG Colloquium Series](http://conferences.uvic.ca/index.php/coag/coagcs_spring2015). Add [link]() to the video lecture when it becomes available. Very engaging presenation on telemeres (see above) and ongoing research on the relationship between psychological stress and health outcomes, lead by [Elizabeth (Lisa) Blackburn](https://en.wikipedia.org/wiki/Elizabeth_Blackburn). Quite facinating. High replay value.
 3. met with @casslbrown to collect thoughs on the [wave inclusion](https://github.com/IALSA/wave-inclusion) project. [LOG issue](https://github.com/IALSA/wave-inclusion/issues/3). We refreshed our memory on the current state of the project and found some concrete formulations for the next steps. We decided to start by giving a fresh look at our presentation last fall on the MAP data. In light of what has already [been done](https://github.com/IALSA/wave-inclusion/blob/master/README.md), we'd like to start [finding words](https://github.com/IALSA/wave-inclusion/issues/4) to answer the following question:
  > Would the conclusions drawn about cognitive change have been different, had we analysed the MAP data at different points in the lifespan of the study? 
 4. Spoke with @wibeasley regarding a [stencil](https://github.com/IALSA/ialsa-2015-portland-stencil) he started for reconstructing [IALSA-2015-Portland](https://github.com/IALSA/IALSA-2015-Portland). I need to study the [issues]() and start organizing the workflow. 
