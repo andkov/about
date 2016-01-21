@@ -26,7 +26,8 @@ Jan 20
  - spent the first half with @kmoselle, discussion VIHA projects. Here's the [log](https://github.com/IHACRU/VIHA-de-ID/issues/1)
  - in the afternoon, prepared the [presentation](http://htmlpreview.github.io/?https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.html) on [grant completion](https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.md) for the teaching grant from UVic's Learning and Teaching Centre
 
-
+Jan 21
+ - conference with @wibeasley and @Mmaleeha about the [regex](https://github.com/wibeasley/regex-class-2015/issues/5) and [stencil](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/12)
 
 
 
