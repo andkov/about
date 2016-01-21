@@ -22,6 +22,9 @@ He recommended two pop-books to get into the science of stress and ageing:
 4. Spoke with @wibeasley regarding a [stencil](https://github.com/IALSA/ialsa-2015-portland-stencil) he started for reconstructing [IALSA-2015-Portland](https://github.com/IALSA/IALSA-2015-Portland). I need to study the [issues]() and start organizing the workflow. 
 
 
+Jan 20 
+ - spent the first half with @kmoselle, discussion VIHA projects. Here's the [log](https://github.com/IHACRU/VIHA-de-ID/issues/1)
+ - in the afternoon, prepared the [presentation](http://htmlpreview.github.io/?https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.html) on [grant completion](https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.md) for the teaching grant from UVic's Learning and Teaching Centre
 
 
 
