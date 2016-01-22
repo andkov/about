@@ -11,16 +11,19 @@ Andriy V. Koval, researcher
 #### developments 
 1. IALSA-2015-Portland 
 2. IALSA-2016-Victoria
-3. VIHA-programs 
-4. data-de-ID
+3. IALSA-Study-Curator
+
+1. VIHA-programs 
+2. VIHA-de-ID
 
 #### colaborers
 - Will Beasley, OU
 - Cassandra Brown, UVic
 - Scott Hofer , UVic
+- Ken Moselle, VIHA
 - Andrea Piccinin, UVic
 - Joe Rodgers, Vanderbilt  
-- Ken Moselle, VIHA
+
 
 #### log
 - [cv]() updated Nov 2015
