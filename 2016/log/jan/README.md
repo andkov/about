@@ -33,8 +33,9 @@ Jan 21
   - scaffolding approach to teaching a particular   
   - ICRR become competitive with May 1 deadline  
   
-
-
+Jan 22, Friday
+- attended UVic Psych Dept [colloquium](http://www.uvic.ca/socialsciences/psychology/graduate/brain-sciences/cabssem/) talk by Morgan Teskey (@MTeskey) on *Relating motor resonance and language: Not an open-and-shut case*. 
+- 
 
 
 
