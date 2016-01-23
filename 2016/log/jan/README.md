@@ -36,8 +36,8 @@ Jan 21
 [Jan 22, Friday](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-22.md)  
 
 - attended UVic Psych Dept [colloquium](http://www.uvic.ca/socialsciences/psychology/graduate/brain-sciences/cabssem/) talk by Morgan Teskey (@mteskey) on *Relating motor resonance and language: Not an open-and-shut case*. 
-- Got a [fitbit Charge HR](https://www.fitbit.com/ca/chargehr) from Jonathan (@jru7sh). Loved the built and how it feels on the wrist. The iOS app for iPhone 6s works well.
+- Got a [fitbit Charge HR](https://www.fitbit.com/ca/chargehr) from Jonathan (@jru7sh) to explore the data pathways from collection to reporting. Loved the built and how it feels on the wrist. The iOS app for iPhone 6s works well.
 - Drafted literature review for ongoing monitoring. Need to develop new reading habits to be engaged into the conversation.  
-- Thought about how Data Curatorship fits into the CAR workshop model. 
+- Thought about how Data Curatorship fits into the CAR workshop model (see the daily log).
 
 
