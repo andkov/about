@@ -1,0 +1,2 @@
+Current Reading Scope
+
