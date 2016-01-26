@@ -44,4 +44,4 @@ Jan 21
 - spent the morning brushing up on the [portland-physical-cognitive track](https://github.com/IALSA/Portland-physical-cognitive).  
 - updated the graph of the [cogntive domain map](https://raw.githubusercontent.com/IALSA/Portland-physical-cognitive/master/analysis/model_space/cog_domain_map/domain_map-1.png).
 - was meant to meet with @ampiccinin, but the meeting did not occur. See the [log](https://github.com/IALSA/Portland-physical-cognitive/issues/4) of the project for this date.     
-- completed a [progress report](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-26-progress-report.md) for this week.   
+- completed a [progress report](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-25-progress-report.md) for this week.   
