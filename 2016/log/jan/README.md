@@ -6,11 +6,12 @@
 
 Jan 7 - Jan 16 : Vacation
 
-[Jan 18, Monday]()   informal meeting with [Eli Puterman](http://profiles.ucsf.edu/eli.puterman) discussing his [projects on telomers](https://projectreporter.nih.gov/project_info_results.cfm?aid=8847776&icde=0). ![Puterman](http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=366241&cachekey=f6fb65f4-6b1b-46ea-9786-5997190f5f49)   
+[Jan 18, Monday]()   
+- informal meeting with [Eli Puterman](http://profiles.ucsf.edu/eli.puterman) discussing his [projects on telomers](https://projectreporter.nih.gov/project_info_results.cfm?aid=8847776&icde=0). ![Puterman](http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=366241&cachekey=f6fb65f4-6b1b-46ea-9786-5997190f5f49)   
 > [Telomere](https://en.wikipedia.org/wiki/Telomere) is a region of repetitive nucleotide sequences at each end of a chromosome, which protects the end of the chromosome from deterioration or from fusion with neighboring chromosomes.
 
 He recommended two pop-books to get into the science of stress and ageing:  
-[![](http://ecx.images-amazon.com/images/I/518PbRACTQL._SX322_BO1,204,203,200_.jpg)](http://www.amazon.ca/Why-Zebras-Dont-Ulcers-Stress-Related/dp/0805073698)   [![](http://ecx.images-amazon.com/images/I/41R13evwgiL.jpg)](http://www.amazon.com/Stress-Less-Science-Rejuvenate-Bodyand/dp/1594630607) 
+[<img src="http://ecx.images-amazon.com/images/I/518PbRACTQL._SX322_BO1,204,203,200_.jpg" alt="Zebras" width="250"](http://www.amazon.ca/Why-Zebras-Dont-Ulcers-Stress-Related/dp/0805073698)   [<img src="http://ecx.images-amazon.com/images/I/41R13evwgiL.jpg" alt="On stress" width="250"](http://www.amazon.com/Stress-Less-Science-Rejuvenate-Bodyand/dp/1594630607) 
 
 
 [Jan 19, Tuesday](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-19.md)  
