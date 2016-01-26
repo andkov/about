@@ -48,6 +48,6 @@ Jan 21
 
 [Jan 26, Tuesday]()
 - at the last moment the meeting with Will and Maleeha for [regex class](https://github.com/wibeasley/regex-class-2015/) got cancelled. Read the book instead. 
-- attended COAG colloquium where Joshua Armstrong spoke on [Frailty and Cognitive Decline: Epidemiological evidence of association. ]() (add link to video when becomes available). <img src="https://pbs.twimg.com/profile_images/476847611513565184/G-nmPt5H.jpeg" alt="Joshua Armstrong" width="100"> 
-- met with @casslbrown over google hangouts. here's the [log of the meeting](https://github.com/IALSA/wave-inclusion/issues/8) with homework and next steps. 
+- attended COAG colloquium where Joshua Armstrong  <img src="https://pbs.twimg.com/profile_images/476847611513565184/G-nmPt5H.jpeg" alt="Joshua Armstrong" width="100"> spoke on [Frailty and Cognitive Decline: Epidemiological evidence of association. ]() (add link to video when becomes available).
+- met with @casslbrown over google hangouts. here's the [log of the meeting](https://github.com/IALSA/wave-inclusion/issues/8) with homework each and next steps. 
 
