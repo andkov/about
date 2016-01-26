@@ -1,0 +1,52 @@
+Account of the professional activity. 
+
+
+## TECH SUPPORT
+
+## [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland)  
+**description**: A script development. Developing reporting tools for coordinated analysis with replication (CAR) workshop, conducted at Portland in Feb 2015.    
+**progress**:  none   
+**roadblocks**: waiting on the [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil) to acquire enough shape. As stencil is developed futher we'll start cleaning the original repo.   
+**next steps**: not clear yet     
+**notes**: 
+
+
+
+### [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil)
+
+**description**: Applying lessons from the Feb 2015 Portland workshop (and its repo) to a newer architecture.  Basically, we want to recreate Portland in time, but now to be ready for what is coming.   
+**progress**:  Will and Maleeha (his GA) started the repo which recreates the original Portland repo. See [issues](https://github.com/IALSA/ialsa-2015-portland-stencil/issues) to get the scope. In broad strokes: we disecting the original repo to preserved what worked and discard all mistakes and bad ideas. The biggest challange right now is accounting for all the files to meet the reproducibility standards.     
+**roadblocks**: none apparent. more time..        
+**next steps**: [issues](https://github.com/IALSA/ialsa-2015-portland-stencil/issues) for the full list.  We have scheduled a few meetings this week (Tuesday 8 - 10 am and TBA) to intensify the rate of progress.         
+**notes**:  
+
+
+
+
+
+## SCIENCE
+
+
+## [ialsa-car-methods](https://github.com/IALSA/ialsa-car-methods)
+**description**: A manuscript production. Paper on implementing the CAR methods pioneers in Portland.  
+**progress**:  none    
+**roadblocks**: time       
+**next steps**: re-draft the abstract, basic table of contents      
+**notes**: 
+
+### [Portland-physical-cognitive](https://github.com/IALSA/Portland-physical-cognitive)
+
+**description**:  A manuscript production. Focuses on the models from the [Portland CAR workshop](https://github.com/IALSA/IALSA-2015-Portland)  in which *physical* and *cognitive* outcomes form a bivariate linear structure.     
+**progress**:  During the last meeting on [Jan 5](https://github.com/IALSA/Portland-physical-cognitive/issues/3) @ampiccinin and @andkov examined names of the cognitive measures included into [physical-cognitive track](https://github.com/IALSA/Portland-physical-cognitive).  @ampiccinin [suggested](https://github.com/IALSA/Portland-physical-cognitive/blob/master/analysis/model_space/docs/domain-mapping-piccinin.docx) a conceptualization of how colors can be used to map various cognitive measures into a continuum of discrete domains. The [cognitive domain map](https://github.com/IALSA/Portland-physical-cognitive/blob/master/analysis/model_space/Cog-Domain-Map.md) is the implementation of this. It provides a quick sensus view of what cognitive measures are available and how they can be organized into meaningful clusters.         
+**roadblocks**:  a clearer path for implementing manuscript production is needed.    
+**next steps**: 1) Some tactical decisions are required: as the original taxonomy was revised, new domains crystallized `perception` and `verbal reasoning`. They need to be incorportated into the continuum to finalize the current state of the graph.   See [issue #4](https://github.com/IALSA/Portland-physical-cognitive/issues/4) in the [Portland-physical-cognitive](https://github.com/IALSA/Portland-physical-cognitive) repository.   2)  We need to decide what is the next information should be to advance in the research agenda.   
+**notes**: most of the work is in the script development at this point.  
+
+
+### [wave-inclusion](https://github.com/IALSA/wave-inclusion)
+**description**: How does the number of waves included into the analysis affect the conclusions from a longitudinal study? 
+**progress**:  After the [consult with Scott](https://github.com/IALSA/wave-inclusion/issues/1), @andkov and @casslbrown have [met](https://github.com/IALSA/wave-inclusion/issues/3) to refresh and set tactical goals for the nearest future.    
+**roadblocks**: none apparent        
+**next steps**:   In course of the meeting on [2016-01-19](https://github.com/IALSA/wave-inclusion/issues/3) we've drafted the following todo items: 1) we need to understand in what study wave inclusion effect can be demonstrated. Basic temporal design features (such as  maximum number of waves available and number of waved included into the analysis)  should reveal what we can work with. @casslbrown was assigned to compleet the table of the basic temporal design in [issue 5](https://github.com/IALSA/wave-inclusion/issues/5)  2) @andkov as [assigned](https://github.com/IALSA/wave-inclusion/issues/6) to migrate the MAP data into new repo and reproduce the graphs that went into the latest presentation on the project.  
+**notes**:  @wibeasly suggested the following [resources](https://github.com/IALSA/wave-inclusion/issues/7) to consider for digital publishing. 
+
