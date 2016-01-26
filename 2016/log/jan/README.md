@@ -50,4 +50,5 @@ Jan 21
 - at the last moment the meeting with Will and Maleeha for [regex class](https://github.com/wibeasley/regex-class-2015/) got cancelled. Read the book instead. 
 - attended COAG colloquium where Joshua Armstrong  <img src="https://pbs.twimg.com/profile_images/476847611513565184/G-nmPt5H.jpeg" alt="Joshua Armstrong" width="100"> spoke on [Frailty and Cognitive Decline: Epidemiological evidence of association. ]() (add link to video when becomes available).
 - met with @casslbrown over google hangouts. here's the [log of the meeting](https://github.com/IALSA/wave-inclusion/issues/8) with homework each and next steps. 
+- attended a job talk for the tenure track position at UVic by to [John Sakaluk](http://johnsakaluk.com/) <img src="http://johnsakaluk.com/wp-content/uploads/2014/06/p1109967107-5.jpg" alt=Sakaluk width="100">. Talk: *The Glue that Binds Us: A Norm Strength Perspective on Romantic and Sexual Relationships.*. He used [Exploratory SEM](https://www.statmodel.com/ESEM.shtml) for the study he presented. 
 
