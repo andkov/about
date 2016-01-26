@@ -1,4 +1,4 @@
-Account of the professional activity. 
+Account of my professional activity. 
 
 
 ## TECH SUPPORT
