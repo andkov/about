@@ -1,4 +1,4 @@
-Account of my professional activity. 
+Account of my professional activity from 2016-01-17 to 2016-01-24. 
 
 
 ## TECH SUPPORT
