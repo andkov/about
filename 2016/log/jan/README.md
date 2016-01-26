@@ -45,3 +45,9 @@ Jan 21
 - updated the graph of the [cogntive domain map](https://raw.githubusercontent.com/IALSA/Portland-physical-cognitive/master/analysis/model_space/cog_domain_map/domain_map-1.png).
 - was meant to meet with @ampiccinin, but the meeting did not occur. See the [log](https://github.com/IALSA/Portland-physical-cognitive/issues/4) of the project for this date.     
 - completed a [progress report](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-25-progress-report.md) for this week.   
+
+[Jan 26, Tuesday]()
+- at the last moment the meeting with Will and Maleeha for [regex class](https://github.com/wibeasley/regex-class-2015/) got cancelled. Read the book instead. 
+- attended COAG colloquium where Joshua Armstrong spoke on [Frailty and Cognitive Decline: Epidemiological evidence of association. ]() (add link to video when becomes available). ![joshua armstrong](https://pbs.twimg.com/profile_images/476847611513565184/G-nmPt5H.jpeg)
+- met with @casslbrown over google hangouts. here's the [log of the meeting](https://github.com/IALSA/wave-inclusion/issues/8) with homework and next steps. 
+- 
