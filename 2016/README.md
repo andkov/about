@@ -1,11 +1,1 @@
-about Andriy V. Koval, researcher
-=====
-
-### work
-
-
-### collaborators
-
-
-### log
-
+Research log for the year of 2016
