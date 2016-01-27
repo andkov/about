@@ -1,1 +1,1 @@
-Research log for the year of 2016
+Events for the the year of 2016
