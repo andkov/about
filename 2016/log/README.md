@@ -1,4 +1,5 @@
 Research Log
 ===
 
-Most notable events are placed in this file, which overviews the year. See individual files for more details
+
+Most notable events of the year are placed in this README. Files on individual months and days provide zooming detail. 
