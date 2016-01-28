@@ -15,15 +15,15 @@ Andriy V. Koval, researcher
 #### development projects
 
 IALSA  
-1. [IALSA 2015 Portland](https://github.com/IALSA/IALSA-2015-Portland)
-2. [IALSA 2015 Portland stencil](https://github.com/IALSA/ialsa-2015-portland-stencil)
-3. [IALSA 2016 Victoria](https://github.com/IALSA/ialsa-2016-victoria)
-4. [IALSA Study Curator](https://github.com/IALSA/ialsa-study-curator)
+1. [IALSA 2015 Portland](https://github.com/IALSA/IALSA-2015-Portland)   
+2. [IALSA 2015 Portland stencil](https://github.com/IALSA/ialsa-2015-portland-stencil)   
+3. [IALSA 2016 Victoria](https://github.com/IALSA/ialsa-2016-victoria)   
+4. [IALSA Study Curator](https://github.com/IALSA/ialsa-study-curator)   
 
 VIHA    
-1. [VIHA programs]() 
-2. [VIHA data deidentification]()
-3. [VIHA Menthal Health and Substance Use 3T]()
+1. [VIHA programs]()   
+2. [VIHA data deidentification]()  
+3. [VIHA Menthal Health and Substance Use 3T]()   
 
 #### colaborers
 - Will Beasley, OU
