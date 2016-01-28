@@ -54,3 +54,9 @@ Jan 21, Thursday
 - met with @casslbrown over google hangouts. here's the [log of the meeting](https://github.com/IALSA/wave-inclusion/issues/8) with homework each and next steps. 
 - attended a job talk for the tenure track position at UVic by to [John Sakaluk](http://johnsakaluk.com/) <img src="http://johnsakaluk.com/wp-content/uploads/2014/06/p1109967107-5.jpg" alt=Sakaluk width="100">. Talk: *The Glue that Binds Us: A Norm Strength Perspective on Romantic and Sexual Relationships.*. He used [Exploratory SEM](https://www.statmodel.com/ESEM.shtml) for the study he presented. 
 
+[Jan 27, Wednesday]()
+- met for lunch with @josherArmstrong  
+- visited  @kmoselle with @josherArmstrong. [log](https://github.com/IHACRU/VIHA-de-ID/issues/3)
+
+[Jan 28, Thursday]()
+
