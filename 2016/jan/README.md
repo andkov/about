@@ -2,7 +2,7 @@
 
 [Jan 28, Thursday]()
 - went with @kmoselle to IH campus, took a look at our new office space. Chatted with a few people, most notably, Dawn Waterhouse, Research Business Manager.  
-- went to 2nd Annual Pecha Kucha night organized by 9COAG](http://www.uvic.ca/research/centres/aging/)  
+- went to 2nd Annual Pecha Kucha night organized by [COAG](http://www.uvic.ca/research/centres/aging/)  
 
 [Jan 3](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-03.md)  planning papers and projects
 
