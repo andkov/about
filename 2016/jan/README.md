@@ -1,5 +1,9 @@
 ## January 2016
 
+[Jan 28, Thursday]()
+- went with @kmoselle to IH campus, took a look at our new office space. Chatted with a few people, most notably, Dawn Waterhouse, Research Business Manager.  
+- went to 2nd Annual Pecha Kucha night organized by 9COAG](http://www.uvic.ca/research/centres/aging/)  
+
 [Jan 3](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-03.md)  planning papers and projects
 
 [Jan 5](https://github.com/IALSA/Portland-physical-cognitive/issues/3) met with Andrea Piccinin to conduct renaming of the cognitive measures in the Portland project. 
@@ -58,5 +62,5 @@ Jan 21, Thursday
 - met for lunch with @josherArmstrong  
 - visited  @kmoselle with @josherArmstrong. [log](https://github.com/IHACRU/VIHA-de-ID/issues/3)
 
-[Jan 28, Thursday]()
+
 
