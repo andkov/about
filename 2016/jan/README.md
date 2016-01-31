@@ -1,5 +1,9 @@
 ## January 2016
 
+[Jan 29, Friday](https://github.com/IHACRU/viha-programs/issues/16)
+- spent the day with Ken Moselle. Here's the [log](https://github.com/IHACRU/viha-programs/issues/16)
+
+
 [Jan 28, Thursday]()
 - went with @kmoselle to IH campus, took a look at our new office space. Chatted with a few people, most notably, Dawn Waterhouse, Research Business Manager.  
 - went to 2nd Annual Pecha Kucha night organized by [COAG](http://www.uvic.ca/research/centres/aging/)  
