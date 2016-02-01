@@ -4,7 +4,9 @@ Andriy V. Koval, researcher
 
 #### log
 - [cv]() updated Nov 2015
-- [january of 2016](https://github.com/andkov/about/blob/master/2016/jan/README.md)  
+- [february of 2016](https://github.com/andkov/about/blob/master/2016/feb/README.md) 
+- [january of 2016](https://github.com/andkov/about/blob/master/2016/jan/README.md)   
+  
 
 #### production projects  
 1. [IALSA CAR methods](https://github.com/IALSA/ialsa-car-methods) - Practical implementation of Coordinated Analysis with Replication  for 9 longitudinal studies  
