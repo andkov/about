@@ -1,25 +1,51 @@
 ## January 2016
 
+
 [Jan 29, Friday](https://github.com/IHACRU/viha-programs/issues/16)
 - spent the day with Ken Moselle. Here's the [log](https://github.com/IHACRU/viha-programs/issues/16)
-
 
 [Jan 28, Thursday]()
 - went with @kmoselle to IH campus, took a look at our new office space. Chatted with a few people, most notably, Dawn Waterhouse, Research Business Manager.  
 - went to 2nd Annual Pecha Kucha night organized by [COAG](http://www.uvic.ca/research/centres/aging/)  
 
-[Jan 3](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-03.md)  planning papers and projects
 
-[Jan 5](https://github.com/IALSA/Portland-physical-cognitive/issues/3) met with Andrea Piccinin to conduct renaming of the cognitive measures in the Portland project. 
+[Jan 27, Wednesday]()
+- met for lunch with @josherArmstrong  
+- visited  @kmoselle with @josherArmstrong. [log](https://github.com/IHACRU/VIHA-de-ID/issues/3)
 
-Jan 7 - Jan 16 : Vacation
+[Jan 26, Tuesday]()
+- created an [issue](https://github.com/IALSA/IALSA-2015-Portland/issues/117) to create a DT tool for retrieving information from extracted model estimations.   
+- at the last moment the meeting with Will and Maleeha for [regex class](https://github.com/wibeasley/regex-class-2015/) got cancelled. Read the book instead. 
+- attended COAG colloquium where Joshua Armstrong  <img src="https://pbs.twimg.com/profile_images/476847611513565184/G-nmPt5H.jpeg" alt="Joshua Armstrong" width="100"> spoke on [Frailty and Cognitive Decline: Epidemiological evidence of association. ]() (add link to video when becomes available).
+- met with @casslbrown over google hangouts. here's the [log of the meeting](https://github.com/IALSA/wave-inclusion/issues/8) with homework each and next steps. 
+- attended a job talk for the tenure track position at UVic by to [John Sakaluk](http://johnsakaluk.com/) <img src="http://johnsakaluk.com/wp-content/uploads/2014/06/p1109967107-5.jpg" alt=Sakaluk width="100">. Talk: *The Glue that Binds Us: A Norm Strength Perspective on Romantic and Sexual Relationships.*. He used [Exploratory SEM](https://www.statmodel.com/ESEM.shtml) for the study he presented. 
+ 
 
-[Jan 18, Monday]()   
-- informal meeting with [Eli Puterman](http://profiles.ucsf.edu/eli.puterman) discussing his [projects on telomers](https://projectreporter.nih.gov/project_info_results.cfm?aid=8847776&icde=0). ![Puterman](http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=366241&cachekey=f6fb65f4-6b1b-46ea-9786-5997190f5f49)   
-> [Telomere](https://en.wikipedia.org/wiki/Telomere) is a region of repetitive nucleotide sequences at each end of a chromosome, which protects the end of the chromosome from deterioration or from fusion with neighboring chromosomes.
+[Jan 25, Monday](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-25.md)
+- spent the morning brushing up on the [portland-physical-cognitive track](https://github.com/IALSA/Portland-physical-cognitive).  
+- updated the graph of the [cogntive domain map](https://raw.githubusercontent.com/IALSA/Portland-physical-cognitive/master/analysis/model_space/cog_domain_map/domain_map-1.png).
+- was meant to meet with @ampiccinin, but the meeting did not occur. See the [log](https://github.com/IALSA/Portland-physical-cognitive/issues/4) of the project for this date.     
+- completed a [progress report](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-25-progress-report.md) for this week.   
+[Jan 22, Friday](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-22.md)  
 
-He recommended two pop-books to get into the science of stress and ageing:  
-[<img src="http://ecx.images-amazon.com/images/I/518PbRACTQL._SX322_BO1,204,203,200_.jpg" alt="Zebras" width="250">](http://www.amazon.ca/Why-Zebras-Dont-Ulcers-Stress-Related/dp/0805073698)   [<img src="http://ecx.images-amazon.com/images/I/41R13evwgiL.jpg" alt="On stress" width="250">](http://www.amazon.com/Stress-Less-Science-Rejuvenate-Bodyand/dp/1594630607) 
+- attended UVic Psych Dept [colloquium](http://www.uvic.ca/socialsciences/psychology/graduate/brain-sciences/cabssem/) talk by Morgan Teskey (@mteskey) on *Relating motor resonance and language: Not an open-and-shut case*. 
+- Got a [fitbit Charge HR](https://www.fitbit.com/ca/chargehr) from Jonathan (@jru7sh) to explore the data pathways from collection to reporting. Loved the built and how it feels on the wrist. The iOS app for iPhone 6s works well.
+- Drafted literature review for ongoing monitoring. Need to develop new reading habits to be engaged into the conversation.  
+- Thought about how Data Curatorship fits into the CAR workshop model (see the daily log).
+
+
+Jan 21, Thursday  
+ - conference with @wibeasley and @maleeha about the [regex](https://github.com/wibeasley/regex-class-2015/issues/5) and [stencil](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/12)  
+ - [presented](https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.md) at LTC grant update session. 
+  - we flipped the lecture, but not the lab (more funding?)  
+  - scaffolding approach to teaching a particular   
+  - ICRR become competitive with May 1 deadline  
+  
+
+
+Jan 20, Wednesday  
+ - spent the first half with @kmoselle, discussion VIHA projects. Here's the [log](https://github.com/IHACRU/VIHA-de-ID/issues/1)
+ - in the afternoon, prepared the [presentation](http://htmlpreview.github.io/?https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.html) on [grant completion](https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.md) for the teaching grant from UVic's Learning and Teaching Centre
 
 
 [Jan 19, Tuesday](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-19.md)  
@@ -31,40 +57,22 @@ He recommended two pop-books to get into the science of stress and ageing:
 4. Spoke with @wibeasley regarding a [stencil](https://github.com/IALSA/ialsa-2015-portland-stencil) he started for reconstructing [IALSA-2015-Portland](https://github.com/IALSA/IALSA-2015-Portland). I need to study the [issues]() and start organizing the work-flow. 
 
 
-Jan 20, Wednesday  
- - spent the first half with @kmoselle, discussion VIHA projects. Here's the [log](https://github.com/IHACRU/VIHA-de-ID/issues/1)
- - in the afternoon, prepared the [presentation](http://htmlpreview.github.io/?https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.html) on [grant completion](https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.md) for the teaching grant from UVic's Learning and Teaching Centre
+[Jan 18, Monday]()   
+- informal meeting with [Eli Puterman](http://profiles.ucsf.edu/eli.puterman) discussing his [projects on telomers](https://projectreporter.nih.gov/project_info_results.cfm?aid=8847776&icde=0). ![Puterman](http://profiles.ucsf.edu/profile/Modules/CustomViewPersonGeneralInfo/PhotoHandler.ashx?NodeID=366241&cachekey=f6fb65f4-6b1b-46ea-9786-5997190f5f49)   
+> [Telomere](https://en.wikipedia.org/wiki/Telomere) is a region of repetitive nucleotide sequences at each end of a chromosome, which protects the end of the chromosome from deterioration or from fusion with neighboring chromosomes.
 
-Jan 21, Thursday  
- - conference with @wibeasley and @maleeha about the [regex](https://github.com/wibeasley/regex-class-2015/issues/5) and [stencil](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/12)  
- - [presented](https://github.com/andkov/psy532/blob/master/documentation/LTDG/LTC_UVic_21_Jan_2016.md) at LTC grant update session. 
-  - we flipped the lecture, but not the lab (more funding?)  
-  - scaffolding approach to teaching a particular   
-  - ICRR become competitive with May 1 deadline  
-  
-[Jan 22, Friday](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-22.md)  
+He recommended two pop-books to get into the science of stress and ageing:  
+[<img src="http://ecx.images-amazon.com/images/I/518PbRACTQL._SX322_BO1,204,203,200_.jpg" alt="Zebras" width="250">](http://www.amazon.ca/Why-Zebras-Dont-Ulcers-Stress-Related/dp/0805073698)   [<img src="http://ecx.images-amazon.com/images/I/41R13evwgiL.jpg" alt="On stress" width="250">](http://www.amazon.com/Stress-Less-Science-Rejuvenate-Bodyand/dp/1594630607) 
 
-- attended UVic Psych Dept [colloquium](http://www.uvic.ca/socialsciences/psychology/graduate/brain-sciences/cabssem/) talk by Morgan Teskey (@mteskey) on *Relating motor resonance and language: Not an open-and-shut case*. 
-- Got a [fitbit Charge HR](https://www.fitbit.com/ca/chargehr) from Jonathan (@jru7sh) to explore the data pathways from collection to reporting. Loved the built and how it feels on the wrist. The iOS app for iPhone 6s works well.
-- Drafted literature review for ongoing monitoring. Need to develop new reading habits to be engaged into the conversation.  
-- Thought about how Data Curatorship fits into the CAR workshop model (see the daily log).
+Jan 7 - Jan 16 : Vacation
 
-[Jan 25, Monday](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-25.md)
-- spent the morning brushing up on the [portland-physical-cognitive track](https://github.com/IALSA/Portland-physical-cognitive).  
-- updated the graph of the [cogntive domain map](https://raw.githubusercontent.com/IALSA/Portland-physical-cognitive/master/analysis/model_space/cog_domain_map/domain_map-1.png).
-- was meant to meet with @ampiccinin, but the meeting did not occur. See the [log](https://github.com/IALSA/Portland-physical-cognitive/issues/4) of the project for this date.     
-- completed a [progress report](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-25-progress-report.md) for this week.   
 
-[Jan 26, Tuesday]()
-- created an [issue](https://github.com/IALSA/IALSA-2015-Portland/issues/117) to create a DT tool for retrieving information from extracted model estimations.   
-- at the last moment the meeting with Will and Maleeha for [regex class](https://github.com/wibeasley/regex-class-2015/) got cancelled. Read the book instead. 
-- attended COAG colloquium where Joshua Armstrong  <img src="https://pbs.twimg.com/profile_images/476847611513565184/G-nmPt5H.jpeg" alt="Joshua Armstrong" width="100"> spoke on [Frailty and Cognitive Decline: Epidemiological evidence of association. ]() (add link to video when becomes available).
-- met with @casslbrown over google hangouts. here's the [log of the meeting](https://github.com/IALSA/wave-inclusion/issues/8) with homework each and next steps. 
-- attended a job talk for the tenure track position at UVic by to [John Sakaluk](http://johnsakaluk.com/) <img src="http://johnsakaluk.com/wp-content/uploads/2014/06/p1109967107-5.jpg" alt=Sakaluk width="100">. Talk: *The Glue that Binds Us: A Norm Strength Perspective on Romantic and Sexual Relationships.*. He used [Exploratory SEM](https://www.statmodel.com/ESEM.shtml) for the study he presented. 
+[Jan 5](https://github.com/IALSA/Portland-physical-cognitive/issues/3) met with Andrea Piccinin to conduct renaming of the cognitive measures in the Portland project. 
 
-[Jan 27, Wednesday]()
-- met for lunch with @josherArmstrong  
-- visited  @kmoselle with @josherArmstrong. [log](https://github.com/IHACRU/VIHA-de-ID/issues/3)
+[Jan 3](https://github.com/andkov/about/blob/master/2016/log/jan/2016-01-03.md)  planning papers and projects
+
+
+
 
 
 
