@@ -5,7 +5,7 @@ Feb 3, Wednesday
 
 Feb 2, Tuesday   
 - attended COAG colloquium talk by by [Deniz Erten-Lyons](http://www.ohsu.edu/xd/research/centers-institutes/neurology/alzheimers/faculty-staff/erten-lyons.cfm) <img src="http://www.ohsu.edu/xd/research/centers-institutes/neurology/alzheimers/faculty-staff/images/Erten-Lyons-Headshot.jpg" width="100px">, who spoke about Oregon Brain Aging Study (OBAS). [Notes](https://github.com/andkov/about/blob/master/2016/feb/2016-02-02.md).  
-
+- attended job talk by [Phil Chalmers](https://github.com/philchalmers) who spoke on "Application in the IRT"  
 
 [Feb 1, Monday]()
 - spent most of the day writing a [progress report](https://github.com/andkov/about/blob/master/2016/feb/2016-02-01-progress-report.md) and the email accompanying it
