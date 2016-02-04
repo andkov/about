@@ -1,5 +1,11 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
+Feb 4, Thursday
+
+- had a good go at [LASA](https://github.com/IALSA/LASA) prep for Study Curatorship. In preparation to the meeting with R.Graham. [log](https://github.com/IALSA/LASA/issues/5). She considers a project involving LASA study (and two others) looking at how bloodpressure, diabetes, and physical activity relates to cognitive decline.   
+- had a very productive meeting with W.Beasley and M.Shahid. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/15). Very excited to start testing and extending the IalsaSynthesis package.
+- met with R.Graham. Set her up with LASA data. Her homework is to go through the [two scripts](https://github.com/IALSA/LASA/tree/master/scripts/users/r-graham) and advance in understanding what files should go into composition of the analysis-ready dataset
+
 Feb 3, Wednesday  
 - spend most of the day grooming MAP for [Study Curator](https://github.com/IALSA/ialsa-study-curator). See [log]() of the activities. - met briefly with C.Brown. We didn't have much time, so I only briefly described my progress and assigned some homework for next time. See [log](https://github.com/IALSA/MAP/issues/16)
 
