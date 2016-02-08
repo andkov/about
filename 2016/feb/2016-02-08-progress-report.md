@@ -3,10 +3,13 @@ from the previous week of Feb-01 to Feb-05
  
  1) new branch of Portland repo, cleaned for stencil ( project: [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland))  
 	- not done. reformulated. instead of cleaning the entire stencil, our discussion on [2016-02-04](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/15) suggested I focus on the `./reports` folder   
+	
  2) create a [dynamic table](https://github.com/IALSA/IALSA-2015-Portland/issues/117) for retrieving model estimates from output files. (advances two projects: [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland) and [portland-physical-cognitive](https://github.com/IALSA/Portland-physical-cognitive))     
-	- not done. now this objective has been move in priority. We have to verify the accuracy of the parsing script before building the front end. THis, still will remain relevant, but can wait.
+	- not done. now this objective has been move in priority. We have to verify the accuracy of the parsing script before building the front end. THis, still will remain relevant, but can wait.    
+	
  3) Read Coulombe et al. paper and start developing literature review for wave-inclusion paper   
-	- Done. Coulombe et al (2015) turned out to be a poor fit as a key paper. Focus has shifted to Rast and Hofer (2014) as Hertzog (2006, 2008) papers. See log : https://github.com/IALSA/wave-inclusion/issues/10
+	- Done. Coulombe et al (2015) turned out to be a poor fit as a key paper. Focus has shifted to Rast and Hofer (2014) as Hertzog (2006, 2008) papers. See log : https://github.com/IALSA/wave-inclusion/issues/10    
+	
  4) complete the transfer of the original MAP presentation and prepare to go over it with C.Brown, so that she may develop independent skills necessary to produce/maintain dynamic documents in this project   
 	- Almost done. The wave-inclusing repository has been shaped up very well and C.Brown got some scripting homework to go through. 
 
