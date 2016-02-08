@@ -1,5 +1,9 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
+Feb 8, Monday  
+* week's [task que](https://github.com/andkov/about/blob/master/2016/feb/2016-02-08-progress-report.md#what-needs-to-be-done) for IALSA.  
+* 
+
 Feb 5, Friday
 - met minor advances in [viha-program](https://github.com/IHACRU/viha-programs/tree/master/reports/04-how-old-relatesto-new).  
 - talked to Norm Sillito from VIHA. We were trying to connect to the 3T server. Found out that I need locad admin privileges on the virtual machine of 3T (KVHIHCRNMTH01). Also tried to connect to the Data Warehouse server (KVHBIDWSQL03\P12012) through Access on my Citrix connector. Were unsuccessful, but N.Sillito later claimed the problem was found. 
