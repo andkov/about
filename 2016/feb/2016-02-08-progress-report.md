@@ -84,7 +84,7 @@ of my professional activity from 2016-02-01 to 2016-02-07.
 
 - [ ] 3-SCIENCE: read Rast and Hofer (2014),  skim through  Hertzog et al (2006, 2008). Prepare to discuss with C.Brown. (advances [wave-inclusion](https://github.com/IALSA/wave-inclusion))       
 
-- [ ] 4-TECH prepare: `wave-inclusion` repo to describe to C.Brown the built-in reproducibility. (advances [wave-inclusion](https://github.com/IALSA/wave-inclusion))  
+- [ ] 4-TECH: prepare `wave-inclusion` repo to describe to C.Brown the built-in reproducibility. (advances [wave-inclusion](https://github.com/IALSA/wave-inclusion))  
 
 - [ ] 5-TECH: go through `IALSA-2015-Portland/reports` folder and determine what is worth keeping and what needs to be cleaned. Leave only the reports with valuable contributions. Put sandbox items into a sandbox. See discussion on [2016-02-04](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/15).   (advances [portland-physical-cognitive](https://github.com/IALSA/Portland-physical-cognitive), [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland), and  [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil) )   
 
