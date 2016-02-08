@@ -78,7 +78,7 @@ of my professional activity from 2016-02-01 to 2016-02-07.
 
 [] 1 -(TECH)- prepare the environment to solidify the parser using IalsaSynthesis package.  *Objective*: a reliable procedure to minimize parsing errors from estimation extraction. (advances [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland) and [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil)) 
 
-2 -(TECH)- Engineer a Syntax Creator -  system for generating Mplus model scripts to be executed. *Objective*: template Mplus script is fed to R, which produces modified Mplus scripts, designed for optimized parsing. The parser will reference this Syntax Creator, getting instructions on what to look for in the text output. (advances [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil))   
+[x] - (TECH)- Engineer a Syntax Creator -  system for generating Mplus model scripts to be executed. *Objective*: template Mplus script is fed to R, which produces modified Mplus scripts, designed for optimized parsing. The parser will reference this Syntax Creator, getting instructions on what to look for in the text output. (advances [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil))   
 
 3 -(SCIENCE)- Read Rast and Hofer (2014),  skim through  Hertzog et al (2006, 2008). Prepare to discuss with C.Brown. (advances [wave-inclusion](https://github.com/IALSA/wave-inclusion))       
 
