@@ -1,6 +1,6 @@
 ##  Looking back
-Evaluating the assigned tasks from the previous week of Feb-01 to Feb-05
- ### What needs to be done   
+Evaluating the assigned tasks from the previous week of Feb-01 to Feb-05    
+### What needs to be done   
 *ranked according to perceived importance/impact*     
 *implementation will favor this order, unless explicitly overwritten*   
 *tasks will carry over to the new week, if not completed or deprecated*    
