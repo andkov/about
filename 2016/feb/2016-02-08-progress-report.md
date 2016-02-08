@@ -1,5 +1,5 @@
-##  TODO 
-from the previous week of Feb-01 to Feb-05
+##  Looking back
+Evaluating the assigned tasks from the previous week of Feb-01 to Feb-05
  
  1) new branch of Portland repo, cleaned for stencil ( project: [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland))  
 	- not done. reformulated. instead of cleaning the entire stencil, our discussion on [2016-02-04](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/15) suggested I focus on the `./reports` folder   
