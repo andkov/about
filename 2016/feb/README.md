@@ -1,7 +1,7 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
 Feb 8, Monday  
-* week's [task que](https://github.com/andkov/about/blob/master/2016/feb/2016-02-08-progress-report.md#what-needs-to-be-done) for IALSA.  
+* week's [task que](https://github.com/andkov/about/blob/master/2016/feb/2016-02-15-progress-report.md) for IALSA.  
 * 
 
 Feb 5, Friday
