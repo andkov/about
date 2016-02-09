@@ -2,7 +2,7 @@
 
 Feb 8, Monday  
 * week's [task que](https://github.com/andkov/about/blob/master/2016/feb/2016-02-15-progress-report.md) for IALSA.  
-* 
+* spent the day working on [syntax-creator](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/16). I'm using MAP data so that these efforts are meaningful in the context of [study curator](https://github.com/IALSA/ialsa-study-curator) and [wave inclusion](https://github.com/IALSA/wave-inclusion) projects.   
 
 Feb 5, Friday
 - met minor advances in [viha-program](https://github.com/IHACRU/viha-programs/tree/master/reports/04-how-old-relatesto-new).  
