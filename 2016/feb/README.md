@@ -1,5 +1,11 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
+Feb 9, Tuesday
+* W.Beasley had to move the meeting on [ialsa-2015-portland]() to Tursday
+* IALSA reading: see [wave-inclusion/research-literature.md](https://github.com/IALSA/wave-inclusion/blob/master/research-literature.md)  
+* VIHA reading : see [resources for de-id](https://github.com/IHACRU/viha-de-id/issues/2)  
+  
+
 Feb 8, Monday  
 * week's [task que](https://github.com/andkov/about/blob/master/2016/feb/2016-02-15-progress-report.md) for IALSA.  
 * spent the day working on [syntax-creator](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/16). I'm using MAP data so that these efforts are meaningful in the context of [study curator](https://github.com/IALSA/ialsa-study-curator) and [wave inclusion](https://github.com/IALSA/wave-inclusion) projects.   
