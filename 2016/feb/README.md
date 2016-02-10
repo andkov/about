@@ -5,6 +5,7 @@ Feb 9, Tuesday
 * IALSA reading: see [wave-inclusion/research-literature.md](https://github.com/IALSA/wave-inclusion/blob/master/research-literature.md)  
 * VIHA reading : see [resources for de-id](https://github.com/IHACRU/viha-de-id/issues/2)  
 * edited [MAP flow description](https://github.com/IALSA/MAP/blob/master/flow-description.md), getting closer to Study Curator  
+* helped C.Brown with grooming HRS. [log](https://github.com/IALSA/HRS/issues/3), getting closer to Study Curator
   
 
 Feb 8, Monday  
