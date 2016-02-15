@@ -1,10 +1,10 @@
 Progress report
 
-TECH SUPPORT 
+## TECH SUPPORT
 
-A. [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland)   
+#### A. [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland)   
 
-B. [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil)   
+#### B. [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil)   
  1. progress. advanced [syntax-creator](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/16). formally done, but requires further debugging. 
  
 
@@ -15,7 +15,7 @@ C. [ialsa-study-curator](https://github.com/IALSA/ialsa-study-curator)
  4. next steps. announce office hours for curator sessions. Mondays 2 - 5 pm. 
  
 
-SCIENCE   
+## SCIENCE   
  
 A. [ialsa-car-methods](https://github.com/IALSA/ialsa-car-methods)    
  1. progress. Recent meeting with W.Beasley helped clarify the data flow, although the language of expressing these concepts remains murky.  I'm sketching the diagrams, but don't see anything I like yet.  
@@ -27,7 +27,8 @@ B. [wave-inclusion](https://github.com/IALSA/wave-inclusion)
  2. next steps. C.Brown and myself need to spend some time reading. I've skim-read [rast-hofer-2014](https://github.com/IALSA/wave-inclusion/tree/master/literature/rast-hofer-2014) paper and it should be the place of our departure. However, a much closer examination of the paper is required before I can pick up the conversation where Rast and Hofer take off. Meeting scheduled with C.Brown for Feb, 16.   
  
  
-C. [portland-physical-cognitive](https://github.com/IALSA/Portland-physical-cognitive) 1. roadblock. Need some feedback from A. Piccinin (see [issue #4](https://github.com/IALSA/Portland-physical-cognitive/issues/4).  
+C. [portland-physical-cognitive](https://github.com/IALSA/Portland-physical-cognitive)  
+ 1. roadblock. Need some feedback from A. Piccinin (see [issue #4](https://github.com/IALSA/Portland-physical-cognitive/issues/4).  
 
 
 VIHA    
