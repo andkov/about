@@ -11,7 +11,7 @@ Progress report
  
 
 #### C. [ialsa-study-curator](https://github.com/IALSA/ialsa-study-curator)   
- 1. progress. HRS : debugged C.Brown's code during the online meeting. 
+ 1. progress. HRS : debugged C.Brown's [code](https://github.com/IALSA/HRS/blob/master/scripts/data/cassandra/0_import_raw.R) during the online meeting. 
  2. progress. MAP : re-written [MAP flow description](https://github.com/IALSA/MAP/blob/master/flow-description.md). So far, this is a template for all subsequent documentations of study data grooming protocol.  
  3. progress. LASA: R.Graham and R.Vendittellii are supposed to contact me about the next meeting regarding  study curatorship.   
  4. next steps. announce office hours for curator sessions. Mondays 2 - 5 pm. 
