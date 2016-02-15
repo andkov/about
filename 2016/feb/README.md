@@ -1,7 +1,7 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
 Feb 15, Monday
- - 
+ - submitted [weekly update](https://github.com/andkov/about/blob/master/2016/feb/2016-02-15-simple-report.md)  
 
 
 Feb 12, Friday
