@@ -9,6 +9,7 @@ Feb 12, Friday
 
 Feb 11, Thursday
 - advanced [syntax-creator](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/16). Couldn't finish debugging, so it doens't perform yet. 
+- met with W.Beasley and M.Shahid, discussing the architecture of the code that we need compose. Data flows are becoming clearer now, although the language of expressing these concepts and ideas remain murky. 
 
 Feb 10, Wednesday
  - met with K.Moselle about data-deidentification project. [log](https://github.com/IHACRU/viha-de-id/issues/6)
