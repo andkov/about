@@ -1,5 +1,18 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
+Feb 15, Monday
+ - 
+
+
+Feb 12, Friday
+- met with K.Moselle and talked about [templ-etal-2015](http://www.jstatsoft.org/article/view/v067i04/v67i04.pdf) paper. [log](https://github.com/IHACRU/viha-de-id/issues/7)
+
+Feb 11, Thursday
+- advanced [syntax-creator](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/16). Couldn't finish debugging, so it doens't perform yet. 
+
+Feb 10, Wednesday
+ - met with K.Moselle about data-deidentification project. [log](https://github.com/IHACRU/viha-de-id/issues/6)
+
 Feb 9, Tuesday
 * W.Beasley had to move the meeting on [ialsa-2015-portland]() to Tursday
 * IALSA reading: see [wave-inclusion/research-literature.md](https://github.com/IALSA/wave-inclusion/blob/master/research-literature.md)  
