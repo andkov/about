@@ -1,8 +1,9 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
 Feb 15, Monday
- - submitted [weekly update](https://github.com/andkov/about/blob/master/2016/feb/2016-02-15-simple-report.md)  
-
+ - 1. submitted [weekly update](https://github.com/andkov/about/blob/master/2016/feb/2016-02-15-simple-report.md)  
+ - 2. Went through folder structure of MAP and LASA to see the similarities. From these two instances I have abstracted a [template](https://github.com/IALSA/ialsa-study-curator/tree/new-study-template) for adding new longitudinal studies to the curatorship project.  
+ - 3. Shaped up [HRS](https://github.com/IALSA/HRS) for Study curator. Clean .gitignore. Next step: going over the reproduction scripts, documenting them, and creating a `reproduce.R` script.
 
 Feb 12, Friday
 - met with K.Moselle and talked about [templ-etal-2015](http://www.jstatsoft.org/article/view/v067i04/v67i04.pdf) paper. [log](https://github.com/IHACRU/viha-de-id/issues/7)
