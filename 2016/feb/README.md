@@ -1,5 +1,8 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
+Feb 16, Tuesday
+- had a productive meeting with W.Beasley and M.Shahid. see [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/21). Next meeting scheduled for Thursday, Feb 25th. 
+
 Feb 15, Monday
  - 1. submitted [weekly update](https://github.com/andkov/about/blob/master/2016/feb/2016-02-15-simple-report.md)  
  - 2. Went through folder structure of MAP and LASA to see the similarities. From these two instances I have abstracted a [template](https://github.com/IALSA/ialsa-study-curator/tree/new-study-template) for adding new longitudinal studies to the curatorship project.  
