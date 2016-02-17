@@ -1,9 +1,9 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
-Feb 16, Tuesday
-1. had a productive meeting with W.Beasley and M.Shahid. see [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/21). Next meeting scheduled for Friday, Feb 26th.  
-2. meeting with C.Brown on wave-inclusion and ialsa-study-curator MAP projects. see [log](https://github.com/IALSA/wave-inclusion/issues/12).  completely replicated MAP data creation. established import pipeline from MAP to wave-inclusion. Next two meeting are scheduled for Tuesday, Feb 22. 
-3. A.Piccinin suggested the following priorities:
+Feb 16, Tuesday   
+- 1. had a productive meeting with W.Beasley and M.Shahid. see [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/21). Next meeting scheduled for Friday, Feb 26th.       
+- 2. meeting with C.Brown on wave-inclusion and ialsa-study-curator MAP projects. see [log](https://github.com/IALSA/wave-inclusion/issues/12).  completely replicated MAP data creation. established import pipeline from MAP to wave-inclusion. Next two meeting are scheduled for Tuesday, Feb 22. 
+- 3. A.Piccinin suggested the following priorities:   
 ```
 1)	ialsa-car-methods – writing paper
 2)	ialsa-study-curator – setting up system student can follow/build on
