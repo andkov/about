@@ -1,7 +1,8 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
 Feb 16, Tuesday
-- had a productive meeting with W.Beasley and M.Shahid. see [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/21). Next meeting scheduled for Thursday, Feb 25th. 
+- had a productive meeting with W.Beasley and M.Shahid. see [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/21). Next meeting scheduled for Friday, Feb 26th.  
+- meeting with C.Brown on wave-inclusion and ialsa-study-curator MAP projects. see [log](https://github.com/IALSA/wave-inclusion/issues/12).  completely replicated MAP data creation. established import pipeline from MAP to wave-inclusion. Next two meeting are scheduled for Tuesday, Feb 22. 
 
 Feb 15, Monday
  - 1. submitted [weekly update](https://github.com/andkov/about/blob/master/2016/feb/2016-02-15-simple-report.md)  
