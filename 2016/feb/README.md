@@ -1,7 +1,11 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
+Feb 18, Thursday
+- met with K.Moselle about  [viha-programs](https://github.com/IHACRU/VIHA-programs). Here's the [log](https://github.com/IHACRU/viha-programs/issues/18). Mostly spent time reading and editing [01-census-of-VIHA-programs](https://github.com/IHACRU/viha-programs/tree/master/reports/01-census-of-VIHA-programs) report. 
+
+
 Feb 17, Wednesday
-- [viha-programs](https://github.com/IHACRU/VIHA-programs)
+- spent the day toying with [viha-programs](https://github.com/IHACRU/VIHA-programs)
 
 Feb 16, Tuesday   
 - 1. had a productive meeting with W.Beasley and M.Shahid. see [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/21). Next meeting scheduled for Friday, Feb 26th.       
