@@ -3,7 +3,7 @@
 Feb 18, Thursday
 - met with K.Moselle about  [viha-programs](https://github.com/IHACRU/VIHA-programs). Here's the [log](https://github.com/IHACRU/viha-programs/issues/18). Mostly spent time reading and editing [01-census-of-VIHA-programs](https://github.com/IHACRU/viha-programs/tree/master/reports/01-census-of-VIHA-programs) report. 
 - spent the afternoon advancing [syntax-creator](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/16). Stucked, asked for help.  
-- emailed G.Muniz-Terrera describing what C.Brown and myself did on wave-inclusion study. created a nice [display](https://github.com/IALSA/wave-inclusion/blob/master/reports/kb_fans_waves/grip_numbercomp/README.md) that summarized our presentation. here's a copy of the [letter]() for reference.
+- emailed G.Muniz-Terrera describing what C.Brown and myself did on wave-inclusion study. created a nice [display](https://github.com/IALSA/wave-inclusion/blob/master/reports/kb_fans_waves/grip_numbercomp/README.md) that summarized our presentation. here's a copy of the [letter](https://github.com/andkov/about/blob/master/2016/feb/2016-02-18-letter-to-graciela.md) for reference.
 
 
 Feb 17, Wednesday
