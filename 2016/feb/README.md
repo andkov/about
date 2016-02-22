@@ -1,5 +1,9 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
+Feb 22, Monday
+- finally arrived at a working version of the [syntax-creator]() a script for transforming an Mplus prototype into .inp file that could be passed for Mplus estimation.  
+
+
 Feb 19, Friday
 - worked on [syntax-creator](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/16). `syntax-creator` is really a bad name, because it's more of a system of scripts that creates scripts, runs models, parses their results, and produces informational display of their quantitative properties. 
 
