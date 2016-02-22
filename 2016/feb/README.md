@@ -1,7 +1,8 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
 Feb 22, Monday
-- finally arrived at a working version of the [syntax-creator]() a script for transforming an Mplus prototype into .inp file that could be passed for Mplus estimation.  
+- finally arrived at a working version of the [syntax-creator]() a script for transforming an Mplus prototype into .inp file that could be passed for Mplus estimation.    
+- worked on HRS to get it closer to Study Curatorship. [log](https://github.com/IALSA/HRS/issues/4)   
 
 
 Feb 19, Friday
