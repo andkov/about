@@ -16,8 +16,8 @@ SCIENCE
 A. [ialsa-car-methods](https://github.com/IALSA/ialsa-car-methods)    
   
 B. [wave-inclusion](https://github.com/IALSA/wave-inclusion)  
-  - 1. progress. Met with G.Muniz and A.Robitaille ([log](https://github.com/IALSA/wave-inclusion/issues/13)).  During the meeting we identified the focal objective at this moment: to demonstrate how statistical conclusion evolves with the maturation of the logitudinal study. Focus on using real data before designing a simulation that could attribute the effect to the features of the temporal design.   
- - 2. next steps. creating an information display for univeratite linear models, which would be the basis for demonstrate the problem facing modellers by the unfolding waves of longitudinal studies.  
+ - 1. progress. Met with G.Muniz and A.Robitaille ([log](https://github.com/IALSA/wave-inclusion/issues/13)).  During the meeting we identified the focal objective at this moment: to demonstrate how statistical conclusion evolves with the maturation of the logitudinal study. Focus on using real data before designing a simulation that could attribute the effect to the features of the temporal design.   
+ - 2. next steps. creating an information display for univeratite linear models. We need to demonstrate the effect of the number of waves to include into the analysis on the conclusions draws from the statistical model. Attrition has a particular role to play in this explanation. 
 
 C. [portland-physical-cognitive](https://github.com/IALSA/Portland-physical-cognitive)   
 
