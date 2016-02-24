@@ -1,5 +1,12 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
+Feb 25, Wednesday
+- meeting with G.Muniz-Terrera, A.Robitaille, and C.Brown regarding thw wave-inclusion project. [log]().
+
+
+Feb 24, Tuesday
+- met with C.Brown. [log](https://github.com/IALSA/MAP/issues/17). At this point, the data from the [MAP](https://github.com/IALSA/MAP) study is prepared for [ialsa-study-curator](https://github.com/IALSA/ialsa-study-curator).   
+
 Feb 22, Monday
 - finally arrived at a working version of the [syntax-creator]() a script for transforming an Mplus prototype into .inp file that could be passed for Mplus estimation.    
 - worked on HRS to get it closer to Study Curatorship. [log](https://github.com/IALSA/HRS/issues/4)   
