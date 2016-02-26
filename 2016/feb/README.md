@@ -1,10 +1,16 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
-Feb 25, Wednesday
+Feb 26, Friday
+- met with W.Beasley and M.Shahid about portland-stencil. [](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/26)
+
+Feb 25, Thursday
+- spent the day at K.Moselle working on viha-programs. 
+
+Feb 24, Wednesday
 - meeting with G.Muniz-Terrera, A.Robitaille, and C.Brown regarding thw wave-inclusion project. [log]().
 
 
-Feb 24, Tuesday
+Feb 23, Tuesday
 - met with C.Brown. [log](https://github.com/IALSA/MAP/issues/17). At this point, the data from the [MAP](https://github.com/IALSA/MAP) study is prepared for [ialsa-study-curator](https://github.com/IALSA/ialsa-study-curator).   
 
 Feb 22, Monday
