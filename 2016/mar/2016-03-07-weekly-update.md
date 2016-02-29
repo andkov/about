@@ -1,3 +1,5 @@
+[edit me](https://github.com/andkov/about/edit/master/2016/mar/2016-03-07-weekly-update.md)
+
 Progress report
 
 TECH SUPPORT 
@@ -8,6 +10,8 @@ B. [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-st
 
 C. [ialsa-study-curator](https://github.com/IALSA/ialsa-study-curator)   
   - .next steps. We don't have a record of how the data is obtained from the source. Such description should be added to the README. I created a separate [issue ](https://github.com/IALSA/MAP/issues/18) to track the discussion. 
+  - 1. progress. Met with R.Vendittelli to established basic import of OBAS data. see [log](https://github.com/IALSA/OBAS/issues/2) for details.
+  - 2. next steps. R.Vendittelli was tasked with providing description to the raw files. Once such description is provided in [GitHub/OBAS/data-unshared/contents.md](https://github.com/IALSA/OBAS/blob/master/data-unshared/contents.md) we can start combining the files. R.Vendittelli agreed to send the scheduling request throught Outlook when she is ready for the next round of data processing.   
 
 
 SCIENCE   
