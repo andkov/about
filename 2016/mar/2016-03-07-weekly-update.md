@@ -18,6 +18,7 @@ B. [wave-inclusion](https://github.com/IALSA/wave-inclusion)
  - .next steps. creating an information display for univeratite linear models. We need to demonstrate the effect of the number of waves to include into the analysis on the conclusions draws from the statistical model. Attrition has a particular role to play in this explanation. Next meeting scheduled for Wednesday 2016-03-09 at 8:00 Pacific Time. 
 
 C. [portland-physical-cognitive](https://github.com/IALSA/Portland-physical-cognitive)   
+- 1. progress. [updated](https://github.com/IALSA/Portland-physical-cognitive/issues/4) domain map. See current version [here](https://github.com/IALSA/Portland-physical-cognitive/tree/master/manipulation). 
 
 
 VIHA    
