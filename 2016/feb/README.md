@@ -1,7 +1,8 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/feb/README.md)
 
 Feb 29, Monday
-- 1. met with R.Vendittelli regading OBAS curatorship. [log](https://github.com/IALSA/OBAS/issues/2)
+- 1. met with R.Vendittelli regading OBAS curatorship. [log](https://github.com/IALSA/OBAS/issues/2)  
+- 2. met with W.Beasley regarding Portland stencil. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/28). Need to focus on the parser more, so we can move on. Agreed to meet Wednesday, March 2, at 14:00 Pacific Time.  
 
 Feb 26, Friday
 - met with W.Beasley and M.Shahid about portland-stencil. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/26)
