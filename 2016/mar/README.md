@@ -4,6 +4,7 @@
 
 Mar 1, Tuesday
 - 1. worked on modernizing the reproduction of Portland [log](https://github.com/IALSA/IALSA-2015-Portland/issues/119)
+- 2. attended a talk by Iris Gordon who applied for a senior instructor for quant psychology at UVic. 
 
 Feb 29, Monday. 
 - 1. met with R.Vendittelli regading OBAS curatorship. [log](https://github.com/IALSA/OBAS/issues/2)  
