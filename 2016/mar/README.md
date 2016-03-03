@@ -3,6 +3,8 @@
 ##### Week 83 in Victoria.
 Mar 2, Wednesday
 - S.Hofer invited me to the workshop on multistate modeling at Amsterdam in April 14-16, 2016.  
+- reorganized the Portland repository [#118]() and modernized the extraction flow [#119]()   
+- met with W.Beasley [log](https://github.com/IALSA/IALSA-2015-Portland/issues/120) to work on the Portland parser. 
 
 Mar 1, Tuesday
 - 1. worked on modernizing the reproduction of Portland [log](https://github.com/IALSA/IALSA-2015-Portland/issues/119)
