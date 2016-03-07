@@ -12,7 +12,7 @@ B. [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-st
 
 C. [ialsa-study-curator](https://github.com/IALSA/ialsa-study-curator)   
   - .next steps. MAP.  We don't have a record of how the data is obtained from the source. Such description should be added to the README. I created a separate [issue ](https://github.com/IALSA/MAP/issues/18) to track the discussion. 
-  -  1. progress. OBAS.  Met with R.Vendittelli [log](https://github.com/IALSA/OBAS/issues/4), together we worked on systematized the desdription of the OBAS files ([contents.md](https://github.com/IALSA/OBAS/blob/master/data-unshared/contents.md)) and learning relevant R syntax to advance in data preparation.    
+  -  1. progress. OBAS.  Met with R.Vendittelli [log](https://github.com/IALSA/OBAS/issues/4), together we worked on systematized the desdription of the OBAS files ([contents.md](https://github.com/IALSA/OBAS/blob/master/data-unshared/contents.md)) and learning relevant R syntax to advance in data preparation.  The next meeting is scheduled for 2016-03-14-10:00.    
 
 
 SCIENCE   
