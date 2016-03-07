@@ -1,6 +1,13 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
 ##### Week 83 in Victoria.
+
+Mar 4, Friday
+- met with K.Moselle, together we made some good progress at shaping the VIHA program census. [log](https://github.com/IHACRU/viha-programs/issues/20). Specifically, we arrived at the following form of assembling a "healthy" population of programs. We start with the proposition : `Facility_Key`, `Building_Key`, and `Site_Key` uniquely define a health program within VIHA.  All programs for which this is the case are automatically admitted in the pool of healthy programs. The rest of the programs are delt with systematically (like with PES) or manually.   
+
+Mar 3, Thursday
+- attended "REDCap day" event at VIHA. [notes](https://github.com/andkov/about/blob/master/2016/mar/2016-03-03-notes.md)
+
 Mar 2, Wednesday
 - S.Hofer invited me to the workshop on multistate modeling at Amsterdam in April 14-16, 2016.  
 - reorganized the Portland repository [#118]() and modernized the extraction flow [#119]()   
