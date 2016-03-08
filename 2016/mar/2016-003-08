@@ -1,0 +1,72 @@
+
+- 1.  if we can only ask for one data set, we should prefer wide to long, because it will be easier to enforce data types (validate values). 
+
+- think about sorting the time points under conditions of missed points (see ELSA)
+
+
+- 2.  The following expression 
+```
+dementia_0 NE 1 and dementia_1 NE 1 and dementia_2 NE 1 and
+!dementia_3 NE 1 and dementia_4 NE 1 and dementia_5 NE 1 and
+!dementia_6 NE 1 and dementia_7 NE 1 and dementia_8 NE 1 and
+!dementia_9 NE 1 and dementia_10 NE 1 and dementia_11 NE 1 and
+!dementia_12 NE 1 and dementia_13 NE 1 and dementia_14 NE 1 and
+!dementia_15 NE 1 and dementia_16
+```
+should be collapsed into a signle variable (e.g. dementia_ever (yes, no), dementia_onset_age). This is recommended to be done during the data manipulation stage, not modelling stage. 
+
+- 3. validation stage 
+	- required variables are there 
+	- there are in the right range  
+	- enforce data type 
+	- names from the PCS can be found in the dataset
+	- function run for each dataset 
+	
+- 4. change the token-delimiter into curly braces for easier human reading and machine parsing
+```
+ia sa  ON %covariates%;
+ia sa  ON {%covariates%}; 
+```
+	
+	
+- 5. DSL. Domain specific Language. 
+
+- 6. Data validation
+	- two stages of checking: before and after the ellis touches the data
+	- screen : any mistakes it catches is the study's fault (doens't move any data) 
+	- ellis: any mistkaes it catches is our fault (what permits data into the pool)
+	- the screen should run on the raw (data) file
+	- one ellis all studies  
+	- the governer calls ellis, one for each study. 
+	- the goal: once the participants drop their dataset into raw folder they don't touch it.  
+	- autonomous self-pacing of the workshop among the participants of the workshop  
+	- don't buy the plane ticket until you pass the screener. (Will's wishful thinking)   
+	- think about the social motivation to complete the data prep before coming? (more realistic)     
+	
+	
+Resolutions/TODO
+- verify the file map (domain map) with Andrea so that we can start testing REDCap PSC.
+- correct the wave-inclusion parser, so that we can move on to Portland-stencil parser. 
+
+#### Housekeeping
+- my OUHSC account `andriy-koval@ouhsc.edu`
+
+#### Next Steps
+
+with Andrea, verify
+
+1. how outcomes mapped to domains
+2. Are these the domains we need/like?
+ = which should be combined?
+ = which should be broken down?
+
+ PCP is the finalization of the talks the precede it. It is assumed that before PCP is maled out to the participants, eahc of them would be contacted via email to obtain the initial, unstructured information about the study (e.g. potential variables to include, temporal design, limitations, comments) 
+ 
+ 
+ PCP is the last chance to specify
+ -1. whether you have that variable
+ -2. how it is spelled in the dataset
+ 
+ After verifying the domain map structure, we can start testing PCS. 
+ 
+ 
