@@ -1,5 +1,17 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
+##### Week 84 in Victoria
+
+Mar 8, Tuesday
+- attended the COAG colloquium to hear [Patan Mehta](http://www.norc.uab.edu/people/tmehta) who spoke on ***From Health Promotion Studies to Population-level Obesity-Mortality Studies: Research Landscape of the Biostatistics***. ![patan mehta](http://www.norc.uab.edu/sites/norc.uab.edu/files/people/TMehta/TMehta.jpg)
+
+Mar 7, Monday
+-  1. progress. OBAS.  Met with R.Vendittelli [log](https://github.com/IALSA/OBAS/issues/4), together we worked on systematized the desdription of the OBAS files ([contents.md](https://github.com/IALSA/OBAS/blob/master/data-unshared/contents.md)) and learning relevant R syntax to advance in data preparation.  The next meeting is scheduled for 2016-03-14-10:00.    
+-  2. progress. LASA. Met with R.Graham. [log](https://github.com/IALSA/LASA/issues/6). We worked through importing the raw data ([see script](https://github.com/IALSA/LASA/blob/master/scripts/users/r-graham/0-import-raw-graham.R)), now we are ready to start assembling the analysis ready dataset (using this [script](https://github.com/IALSA/LASA/blob/master/scripts/users/r-graham/1-compose-dataframes-graham.R) ). R.Graham will contact me when she is ready for another session.  
+
+
+
+
 ##### Week 83 in Victoria.
 
 Mar 4, Friday
