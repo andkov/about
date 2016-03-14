@@ -1,5 +1,9 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
+##### Week 85 in Victoria
+- 1. met with R.Vendittelli regarding OBAS data. [log](https://github.com/IALSA/OBAS/issues/5).
+
+
 ##### Week 84 in Victoria
 
 Mar 11, Friday  
