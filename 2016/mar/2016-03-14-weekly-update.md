@@ -15,7 +15,7 @@ B. [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-st
 
 C. [ialsa-study-curator](https://github.com/IALSA/ialsa-study-curator)   
 - .blocks. MAP.  We don't have a record of how the data is obtained from the source. Such description should be added to the README. I created a separate [issue ](https://github.com/IALSA/MAP/issues/18) to track the discussion. 
--  1. progress. OBAS.  Met with R.Vendittelli [log](https://github.com/IALSA/OBAS/issues/4), together we worked on systematized the description of the OBAS files ([contents.md](https://github.com/IALSA/OBAS/blob/master/data-unshared/contents.md)) and learning relevant R syntax to advance in data preparation.  The next meeting is scheduled for 2016-03-21-10:00.    
+-  1. progress. OBAS.  Met with R.Vendittelli [log](https://github.com/IALSA/OBAS/issues/4), together we worked on systematized the description of the OBAS files ([contents.md](https://github.com/IALSA/OBAS/blob/master/data-unshared/contents.md)) and learning relevant R syntax to advance in data preparation.  The next meeting is scheduled for 2016-03-14-10:00.    
 -  2. progress. LASA. Met with R.Graham. [log](https://github.com/IALSA/LASA/issues/6). We worked through importing the raw data ([see script](https://github.com/IALSA/LASA/blob/master/scripts/users/r-graham/0-import-raw-graham.R)), now we are ready to start assembling the analysis ready dataset (using this [script](https://github.com/IALSA/LASA/blob/master/scripts/users/r-graham/1-compose-dataframes-graham.R) ). R.Graham will contact me when she is ready for another session.  
 
 
