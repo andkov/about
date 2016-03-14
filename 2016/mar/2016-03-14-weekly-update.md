@@ -9,6 +9,7 @@ A. [ialsa-2015-portland](https://github.com/IALSA/IALSA-2015-Portland)
 
 B. [ialsa-2015-portland-stencil](https://github.com/IALSA/ialsa-2015-portland-stencil)  
 - 1. progress.  met with W.Beasly and M.Shahid to advance the scribe/parser. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/30). We focused on the parser for the wave-inclusion (see [example](https://github.com/IALSA/wave-inclusion/tree/master/sandbox/01-univariate-linear)). 
+- next steps. verify the domain map, and send the csv out for people to comment on and agree on the same structure. 
 
 C. [ialsa-study-curator](https://github.com/IALSA/ialsa-study-curator)   
 - .blocks. MAP.  We don't have a record of how the data is obtained from the source. Such description should be added to the README. I created a separate [issue ](https://github.com/IALSA/MAP/issues/18) to track the discussion. 
