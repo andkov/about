@@ -12,6 +12,7 @@ Mar 10, Thursday
 
 Mar 9, Wednesday
 - met with G.Muniz, A.Robittaille, and C.Brown for the update on the wave-inclusion project. [log](https://github.com/IALSA/wave-inclusion/issues/16). We realized during the meeting that if we keep it to the univariate case, we can obviate the need for R-to-Mplus-to-R translation, which is responsible for a sizeable chunk of project's complexity. We decided that we should start with demonstrating the issue of wave inclusion for the univariate case first, using only R to keep things in the same ecosystem. This will allow us to focus on the models and graphs themselves. Once a univariate case is demonstrated we can start thinking whether expansion to MPlus would be justified further advance the project, which does not have to end after the first publication. 
+- met with C.Brown to work on HRS data grooming. [log](https://github.com/IALSA/HRS/issues/5)
 
 Mar 8, Tuesday
 - attended the COAG colloquium to hear [Patan Mehta](http://www.norc.uab.edu/people/tmehta) who spoke on ***From Health Promotion Studies to Population-level Obesity-Mortality Studies: Research Landscape of the Biostatistics***. ![patan mehta](http://www.norc.uab.edu/sites/norc.uab.edu/files/people/TMehta/TMehta.jpg)
