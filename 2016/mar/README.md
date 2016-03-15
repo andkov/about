@@ -1,7 +1,8 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
 ##### Week 85 in Victoria
-- 1. met with R.Vendittelli regarding OBAS data. [log](https://github.com/IALSA/OBAS/issues/5).
+- 1. met with R.Vendittelli regarding OBAS data. [log](https://github.com/IALSA/OBAS/issues/5).  
+- 2. initialized repository for the upcoming harmonization workshop [ialsa-2016-groningen](https://github.com/IALSA/ialsa-2016-groningen). Organized the materials from emails into a GitHub styled documentation. Created the basic import ([/manipulation/studies-ellis.R](https://github.com/IALSA/ialsa-2016-groningen/blob/master/manipulation/studies-ellis.R)). 
 
 
 ##### Week 84 in Victoria
