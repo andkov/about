@@ -3,6 +3,7 @@
 ##### Week 85 in Victoria
 - 1. met with R.Vendittelli regarding OBAS data. [log](https://github.com/IALSA/OBAS/issues/5).  
 - 2. initialized repository for the upcoming harmonization workshop [ialsa-2016-groningen](https://github.com/IALSA/ialsa-2016-groningen). Organized the materials from emails into a GitHub styled documentation. Created the basic import ([/manipulation/studies-ellis.R](https://github.com/IALSA/ialsa-2016-groningen/blob/master/manipulation/studies-ellis.R)). 
+- 3. made major progress in setting up [ialsa-2016-groningen](https://github.com/IALSA/ialsa-2016-groningen). Created an [elis-island](https://github.com/IALSA/ialsa-2016-groningen/blob/master/manipulation/0-ellis-island.R) script that imports the data files and conducts early modifications.
 
 
 ##### Week 84 in Victoria
