@@ -1,6 +1,14 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
 ##### Week 85 in Victoria
+
+Mar 18, Friday
+- met with S.Hofer about Harmonization and Multi-State studies.   
+
+Mar 17, Thursday
+
+Mar 16, Wednesday
+
 Mar 15, Tuesday 
 - met with W.Beasley to work on Portland stencil. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/38). Made major progress in script development. The scribe-parser suite is almost ready for testing. Needs a second fresh look after the break. 
 
