@@ -18,8 +18,10 @@ Mar 18, Friday
 
 Mar 17, Thursday
 - to busy to log  
+
 Mar 16, Wednesday
 - to busy to log  
+
 Mar 15, Tuesday 
 - met with W.Beasley to work on Portland stencil. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/38). Made major progress in script development. The scribe-parser suite is almost ready for testing. Needs a second fresh look after the break. 
 
