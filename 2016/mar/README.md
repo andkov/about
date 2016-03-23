@@ -1,14 +1,25 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
+##### Week 86 in Victoria
+
+Mar 22, Tuesday
+- met with W.Beasley. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/40). 
+
+Mar 21, Monday
+- spent the day developing the [collector script](https://github.com/IALSA/IALSA-2015-Portland/blob/master/scripts/mplus/collect-results.R) for Portland. Made some good progress. 
+
+spend the weekend working on Portland, Amsterdam, and Groningen
+
+
 ##### Week 85 in Victoria
 
 Mar 18, Friday
 - met with S.Hofer about Harmonization and Multi-State studies.   
 
 Mar 17, Thursday
-
+- to busy to log  
 Mar 16, Wednesday
-
+- to busy to log  
 Mar 15, Tuesday 
 - met with W.Beasley to work on Portland stencil. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/38). Made major progress in script development. The scribe-parser suite is almost ready for testing. Needs a second fresh look after the break. 
 
