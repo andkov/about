@@ -1,6 +1,12 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
 ##### Week 86 in Victoria
+Mar 24, Thursday
+- held telecon for multi-state workshop with Iva Cukic and Johan Skoog. [log](https://github.com/IALSA/ialsa-2016-amsterdam/issues/6)
+
+Mar 23, Wednesday 
+- met with R.Vendittelli. [log](https://github.com/IALSA/OBAS/issues/6) 
+- met with R.Graham. [log](https://github.com/IALSA/LASA/issues/7)
 
 Mar 22, Tuesday
 - met with W.Beasley. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/40). 
