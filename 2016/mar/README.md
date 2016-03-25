@@ -1,6 +1,9 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
 ##### Week 86 in Victoria
+Mar 25, Friday
+- met with S.Hofer about prep for harmonization workshop. [log](https://github.com/IALSA/ialsa-2016-groningen/issues/3)
+
 Mar 24, Thursday
 - held telecon for multi-state workshop with Iva Cukic and Johan Skoog. [log](https://github.com/IALSA/ialsa-2016-amsterdam/issues/6)
 
