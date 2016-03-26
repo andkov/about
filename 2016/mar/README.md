@@ -3,10 +3,12 @@
 ##### Week 86 in Victoria
 Mar 25, Friday
 - met with S.Hofer about prep for harmonization workshop. [log](https://github.com/IALSA/ialsa-2016-groningen/issues/3)
+- designed a study on how to describe the pattern of renaming during the data grooming work flow. [issue](https://github.com/IALSA/ialsa-2016-groningen/issues/4)
 
 Mar 24, Thursday
 - held telecon for multi-state workshop with Iva Cukic and Johan Skoog. [log](https://github.com/IALSA/ialsa-2016-amsterdam/issues/6)
-
+- design a study on how to dissect variable names duirnt wide-long-wide tranformations [issue](https://github.com/wibeasley/regex-class-2015/issues/7)
+- 
 Mar 23, Wednesday 
 - met with R.Vendittelli. [log](https://github.com/IALSA/OBAS/issues/6) 
 - met with R.Graham. [log](https://github.com/IALSA/LASA/issues/7)
