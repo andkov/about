@@ -1,5 +1,9 @@
 [add entry](https://github.com/andkov/about/edit/master/2016/mar/README.md)
 
+Apr 6, Tuesay
+- met with W.Beasley and M.Shahid. [log](https://github.com/IALSA/ialsa-2015-portland-stencil/issues/43)
+
+
 ##### Week 87 in Victoria
 
 Mar 31, Thursday
